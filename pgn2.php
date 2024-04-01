@@ -53,7 +53,6 @@
                                 if ($mes != $ValorCertoMes) {
                                     echo "<script>alert('Valores semanais não batem com o mês');</script>";
                                 }
-
                                 //Calcula se o valor ganho é maior que a meta assim ganha 5%
 
                                 if ($semana1 > 20000) {
